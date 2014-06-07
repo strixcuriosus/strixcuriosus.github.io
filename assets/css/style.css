@@ -127,6 +127,10 @@ img.repo-author-logo {
 	margin-right: 15px;
 }
 
+img.icon {
+	max-height: 150px;
+}
+
 /* Media queries */
 /* Hide the ribbon when we are on a phone, screen is too small */
 @media only screen and (max-width: 479px) {
